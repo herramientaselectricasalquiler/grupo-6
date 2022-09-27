@@ -1,0 +1,49 @@
+body{
+	background-color:black;
+	background-image: url(../img/fondo1.png);
+	background-size: 100%;
+	background-attachment: fixed; 
+	font-family: arial;
+	font-size: 15px;
+}
+
+nav{
+	background-color: black;
+	color: #adb5bd;
+	padding: 10px;
+	font-size: 35px;
+}
+
+header{
+	height: 300px;
+	color: black;
+	margin-top: 20px;
+}
+ aside{
+	background-color:gray;
+	color: black;
+	padding: 10px;
+} 
+
+aside div div img{
+	border-radius: 15px;
+}
+
+aside div div p{
+		color: black;
+		font-size: 15px;
+		text-align: justify;
+		margin-top: 20px;
+
+}
+
+section{
+	background-color: white;
+	padding: 10px;
+}
+
+footer{
+	background-color: gray;
+	color: white;
+	padding: 10px;
+}
